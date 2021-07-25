@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+![](https://github-readme-stats.vercel.app/api?username=zhzRedstone&show_icons=true)  
+
 ![](https://count.getloli.com/get/@zhzRedstone)
-![](https://github-readme-stats.vercel.app/api?username=zhzRedstone&show_icons=true)
+
 <!--
 **zhzRedstone/zhzRedstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
