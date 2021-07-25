@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://count.getloli.com/get/@zhzRedstone)
 <!--
 **zhzRedstone/zhzRedstone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
